@@ -22,7 +22,7 @@
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,linux,git,ffmpeg,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,linux,git,ffmpeg,github,npm" />
 </p>
 
 ---
