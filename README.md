@@ -14,9 +14,9 @@
 ## 🚀 About Me
 - 🤖 Focus on **WhatsApp Bot Development (Baileys)**
 - ⚙️ Backend with **Node.js**
-- 🧪 Audio processing with **FFmpeg**
+- 🧪 Create Baileys Module with**Termux and npm**
 - 📱 Coding using **Termux & Pterodactyl Panel**
-- ⚡ Fun fact: *Build bots from phone 😄*
+- ⚡ Fun fact:**Build bots from phone😄**
 
 ---
 
@@ -29,9 +29,7 @@
 
 ## 📌 Featured Projects
 - 🤖 **Rahadi WhatsApp Bot**  
-  Auto menu, downloader, AI, status downloader  
-- 🎵 **Audio & Voice Note System**  
-  Convert MP3 → OGG Opus (WA compatible)  
+  Auto menu, downloader, AI, status downloader   
 - 🌐 **REST API Service**  
   Built with Node.js
 
@@ -68,5 +66,7 @@
 
 ---
 
-> 💡 *"Automation is not magic, it's code."*  
+> 💡 *"Automation is not magic, it's code."*
+---
 > — **Rahadi001**
+> **@LICENSI MIT2025**
