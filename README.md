@@ -69,4 +69,4 @@
 > 💡 *"Automation is not magic, it's code."*
 ---
 > — **Rahadi001**
-> **@LICENSI MIT2025**
+> **@LICENSI MIT2026-2026**
