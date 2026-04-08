@@ -79,9 +79,10 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Project in here
 - 💻 GitHub: https://github.com/Rahadi001
-- Npm : https://www.npmjs.com/package/@rahadi01/baileys@3.0.2
+- Npm             : https://www.npmjs.com/package/@rahadi01/baileys
+- SimpleRestApi   : https://rahadi.vercel.app
 - 🤖 WhatsApp Bot Project: Coming Soon
   
 
@@ -92,4 +93,5 @@
 ## > 💡 *"Automation is not magic, it's code."*
 ---
 > — **Rahadi001**
-> **@LICENSI MT2026-2026**
+
+> 2020/<date>
