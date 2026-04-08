@@ -67,6 +67,18 @@
 
 ---
 
+
+## 🎬 Bot Demo
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  Example automation: auto reply, downloader, and AI response running in real-time.
+</p>
+
+---
+
 ## 📫 Connect With Me
 - 💻 GitHub: https://github.com/Rahadi001
 - Npm : https://www.npmjs.com/package/@rahadi01/baileys@3.0.2
@@ -75,7 +87,9 @@
 
 ---
 
-> 💡 *"Automation is not magic, it's code."*
+
+
+## > 💡 *"Automation is not magic, it's code."*
 ---
 > — **Rahadi001**
 > **@LICENSI MT2026-2026**
