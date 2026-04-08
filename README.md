@@ -35,6 +35,7 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahadi001&show_icons=true&theme=tokyonight" />
@@ -62,11 +63,13 @@
 
 ## 📫 Connect With Me
 - 💻 GitHub: https://github.com/Rahadi001
+- Npm : https://www.npmjs.com/package/@rahadi01/baileys@3.0.2
 - 🤖 WhatsApp Bot Project: Coming Soon
+  
 
 ---
 
 > 💡 *"Automation is not magic, it's code."*
 ---
 > — **Rahadi001**
-> **@LICENSI MIT2026-2026**
+> **@LICENSI MT2026-2026**
