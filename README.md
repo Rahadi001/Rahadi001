@@ -5,8 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=Rahadi001&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=WhatsApp+Bot+Developer;Node.js+Enthusiast; Developer+with+Baileys;Web+developer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+WhatsApp+Bots;Node.js+Backend+Developer;Automation+%26+API+Specialist;Running+Bots+on+Mobile+%F0%9F%93%B1&center=true&width=500&height=45">
+</p>
+
+<!-- Programmer Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
 </p>
 
 ---
