@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer+WhatsApp+Bots; Coding+is+hobby;Developer+Baileys+mod&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;WhatsApp+Bot+Developer;Coding+is+Hobby;Happy+Coding&center=true&width=500&height=45">
 </p>
 
 <!-- Programmer Animation -->
