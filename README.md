@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+WhatsApp+Bots;Node.js+Backend+Developer;Automation+%26+API+Specialist;Running+Bots+on+Mobile+%F0%9F%93%B1&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer+WhatsApp+Bots; Coding+is+hobby;Developer+Baileys+mod&center=true&width=500&height=45">
 </p>
 
 <!-- Programmer Animation -->
