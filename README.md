@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=WhatsApp+Bot+Developer;Node.js+Enthusiast; Developer+with+Baileys+mod;Ngoding+di+Termux;Web+developer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=WhatsApp+Bot+Developer;Node.js+Enthusiast; Developer+with+Baileys;Web+developer&center=true&width=500&height=45">
 </p>
 
 ---
